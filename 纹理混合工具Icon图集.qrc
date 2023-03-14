@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="Icon">
+    <file>Icon/QT2.png</file>
+    <file>Icon/ADD2_480px.png</file>
+    <file>Icon/multimedia-photo-manager.ico</file>
+    <file>Icon/QT.png</file>
+    <file>Icon/QT_R.png</file>
+    <file>Icon/ADD1_480px.png</file>
+    <file>Icon/delete_sign_4802px.png</file>
+    <file>Icon/Max_sign_4802px.png</file>
+    <file>Icon/minus_480px2.png</file>
+    <file>Icon/more_480px2.png</file>
+  </qresource>
+  <qresource prefix="Image">
+    <file>Icon/46_nb.tga</file>
+    <file>Icon/FinalImage_Max_sign_4802px.png</file>
+    <file>Icon/bg_01px.png</file>
+    <file>Icon/ADD1bg_480px.png</file>
+  </qresource>
+</RCC>
